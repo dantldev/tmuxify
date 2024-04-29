@@ -62,7 +62,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgments
 
 - This project was inspired by daily routines and the need for more efficient project management within tmux.
-
----
-
-These updates provide a clear path for new users to get started with Tmuxify quickly and understand its key features and usage. Let me know if there's anything else you'd like to add or modify!
